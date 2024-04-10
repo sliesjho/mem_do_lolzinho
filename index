@@ -1,0 +1,38 @@
+!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>wiki do lolzinho-tudo sobre o lol</title>
+	<link rel="stylesheet" type="text/css" href="inicio.css">
+</head>
+<body>
+	<header>
+		<div align="center">
+			<img src="kind.png"20%>
+			<h1>Wiki do Lolzinho-Tudo Sobre o Lol</h1>
+	</div>
+	<div align="center">
+		<nav>
+			<ul>
+				<li><a href="BUILD.html">Build</a></li>
+				<li><a href="ATUALIZAÇÕES.html">Atualizações</a></li>
+				<li><a href="ITENS.html">Itens</a></li>
+				<li><a href="LOGIN.html">Login</a></li>
+			</ul>
+		</nav>
+	</div>
+</header
+
+	<main>
+
+		<h2> Seja Bem-Vindo </h2>
+		<p> Opa hoje estamos fando sobre a chegada dos kindreds no Wild Rift e as mudanças que veio com eles nessa atualização do nosso lolzinho de celular. </p>
+
+		<img src="lobo.png">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/QozjqO0NEz0?si=yR-z32HhNu86gtD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+	</main>
+
+</body>
+</html>
